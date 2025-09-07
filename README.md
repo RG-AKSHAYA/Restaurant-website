@@ -27,7 +27,7 @@ It showcases a variety of foods such as **pizza, brownies, noodles, and more**, 
 
 
 ## 🚀 Live Demo
-[View on GitHub Pages](https://rg-akshaya.github.io/Restaurant-website/)
+[View on GitHub Pages](https://restow.netlify.app/)
 
 ---
 ## 📂 Project Structure
